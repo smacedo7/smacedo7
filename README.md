@@ -40,13 +40,13 @@ My main career interests are **Data Science, Data Engineering, and Machine Learn
 <img src="https://img.shields.io/badge/Git-171321?style=for-the-badge&logo=git&logoColor=a78bfa" alt="Git" />
 <img src="https://img.shields.io/badge/TypeScript-171321?style=for-the-badge&logo=typescript&logoColor=a78bfa" alt="TypeScript" /></p>
 
-**Machine Learning — learning goals**
+**Machine Learning**
 
 <p><img src="https://img.shields.io/badge/Scikit--learn-171321?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/Model%20Evaluation-171321?style=for-the-badge&logoColor=a78bfa" alt="Model Evaluation" />
 <img src="https://img.shields.io/badge/Feature%20Engineering-171321?style=for-the-badge&logoColor=a78bfa" alt="Feature Engineering" /></p>
 
-**Data Engineering — learning goals**
+**Data Engineering**
 
 <p><img src="https://img.shields.io/badge/PostgreSQL-171321?style=for-the-badge&logo=postgresql&logoColor=a78bfa" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/ETL%20Pipelines-171321?style=for-the-badge&logoColor=a78bfa" alt="ETL Pipelines" />
