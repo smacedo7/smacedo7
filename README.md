@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1457,50:6d28d9,100:a78bfa&height=230&section=header&text=Samuel%20Macedo&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20Machine%20Learning&descSize=16&descAlignY=65" alt="Samuel Macedo — Data Science | Data Engineering | Machine Learning" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1457,50:6d28d9,100:a78bfa&height=230&section=header&text=Samuel%20Macedo&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=14&descAlignY=65" alt="Samuel Macedo — Data Science | Data Engineering | Machine Learning | Backend" />
 </p>
 
-<p align="center"><strong>Building my path in Data Science, Data Engineering, and Machine Learning.</strong></p>
+<p align="center"><strong>Building my path in Data Science, Data Engineering, Machine Learning, and Backend Development.</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelmacedoo/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,12 +13,13 @@
 
 Hi! I'm **Samuel Macedo**, a **Software Engineering student at the University of Brasília (UnB)**.
 
-My career goal is to work in **Data Science, Data Engineering, and Machine Learning**. I am developing my skills through hands-on studies and projects, using Python to explore data and build useful applications.
+My main career interests are **Data Science, Data Engineering, and Machine Learning**, alongside **Backend Development**. I am developing my skills through hands-on studies and projects, using Python to explore data, build APIs, and connect applications to databases.
 
 - **Data Science:** developing skills in data cleaning, exploratory analysis, visualization, and statistics.
 - **Data Engineering:** interested in building reliable data pipelines, working with databases, and organizing data for analysis.
 - **Machine Learning:** aiming to build and evaluate models that solve practical problems.
-- **Software engineering and backend:** building a foundation for integrating data and ML solutions into applications.
+- **Backend Development:** building APIs and web applications with Python, FastAPI, and Django, with a focus on databases, business logic, and software architecture.
+- **Software Engineering:** connecting these interests to build maintainable applications and integrate data and ML solutions into real systems.
 
 ## Tech stack
 
