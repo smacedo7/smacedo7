@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1457,50:6d28d9,100:a78bfa&height=230&section=header&text=Samuel%20Macedo&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20%7C%20Python%20%7C%20Data&descSize=19&descAlignY=65" alt="Samuel Macedo — Software Engineering | Python | Data" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1457,50:6d28d9,100:a78bfa&height=230&section=header&text=Samuel%20Macedo&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20Machine%20Learning&descSize=16&descAlignY=65" alt="Samuel Macedo — Data Science | Data Engineering | Machine Learning" />
 </p>
 
-<p align="center"><strong>Building software. Exploring data. Learning by doing.</strong></p>
+<p align="center"><strong>Building my path in Data Science, Data Engineering, and Machine Learning.</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelmacedoo/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,11 +13,12 @@
 
 Hi! I'm **Samuel Macedo**, a **Software Engineering student at the University of Brasília (UnB)**.
 
-I build projects with Python and explore how software can turn data into useful information. My repositories include backend APIs, desktop applications, and web projects, with an emphasis on learning through practical implementation.
+My career goal is to work in **Data Science, Data Engineering, and Machine Learning**. I am developing my skills through hands-on studies and projects, using Python to explore data and build useful applications.
 
-- **Python:** application development and object-oriented programming.
-- **Backend:** APIs with FastAPI and web applications with Django.
-- **Data:** sales analysis with Pandas, NumPy, and Matplotlib.
+- **Data Science:** developing skills in data cleaning, exploratory analysis, visualization, and statistics.
+- **Data Engineering:** interested in building reliable data pipelines, working with databases, and organizing data for analysis.
+- **Machine Learning:** aiming to build and evaluate models that solve practical problems.
+- **Software engineering and backend:** building a foundation for integrating data and ML solutions into applications.
 
 ## Tech stack
 
@@ -36,7 +37,7 @@ I build projects with Python and explore how software can turn data into useful 
 | Project | Focus |
 | --- | --- |
 | [Sales Data Analyzer](https://github.com/smacedo7/sales-data-analyzer) | Desktop sales analysis project with Python, Pandas, NumPy, Matplotlib, and PySide6. |
-| [Pizzeria Delivery API](https://github.com/smacedo7/pizzeria-delivery-api) | FastAPI backend project for menus, customers, orders, and delivery tracking. |
+| [Techlog CRM](https://github.com/smacedo7/techlog-crm) | CRM study project for customer and service order management with Python, FastAPI, Jinja, and SQLite. |
 | [Sales & Stock System](https://github.com/smacedo7/sales-stock-system) | Python project exploring inventory management, persistence, and software architecture. |
 | [E-commerce Django](https://github.com/smacedo7/ecommerce-django) | Django web application project with product catalogs, authentication, and a shopping cart. |
 
