@@ -60,7 +60,7 @@ My main career interests are **Data Science, Data Engineering, and Machine Learn
 | --- | --- |
 | [Sales Data Analyzer](https://github.com/smacedo7/sales-data-analyzer) | Desktop sales analysis project with Python, Pandas, NumPy, Matplotlib, and PySide6. |
 | [Techlog CRM](https://github.com/smacedo7/techlog-crm) | CRM study project for customer and service order management with Python, FastAPI, Jinja, and SQLite. |
-| [Sales & Stock System](https://github.com/smacedo7/sales-stock-system) | Python project exploring inventory management, persistence, and software architecture. |
+| [Twitter Sentiment Analysis](https://github.com/smacedo7/twitter-sentiment-analysis-nlp) | Tweet sentiment classifier trained on 1.6M tweets (80.5% accuracy), with calibrated probabilities, a Neutral zone, a FastAPI API, a Streamlit [live demo](https://twitter-sentiment-samuel.streamlit.app), Docker, and CI. |
 | [E-commerce Django](https://github.com/smacedo7/ecommerce-django) | Django web application project with product catalogs, authentication, and a shopping cart. |
 
 ## GitHub activity
